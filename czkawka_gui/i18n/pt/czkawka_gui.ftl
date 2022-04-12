@@ -329,7 +329,7 @@ progress_scanning_name = Verificando nome de { $file_number } arquivo
 progress_analyzed_partial_hash = Hash parcial analisado de { $file_checked }/{ $all_files } arquivos
 progress_analyzed_full_hash = Hash completo analisado de { $file_checked }/{ $all_files } arquivos
 progress_current_stage = Estágio atual:{ " " }
-progress_all_stages = Todos os Stages:{ " " }
+progress_all_stages = Todos os est:{ " " }
 # Saving loading 
 saving_loading_saving_success = Configuração salva no arquivo { $name }.
 saving_loading_saving_failure = Falha ao salvar dados de configuração no arquivo { $name }.
